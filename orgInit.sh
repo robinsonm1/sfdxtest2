@@ -1,0 +1,1 @@
+sf org list --verbose
